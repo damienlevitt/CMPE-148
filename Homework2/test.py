@@ -36,6 +36,7 @@ while True:
         # Fill in end
         # Close client socket
         # Fill in start
+        serverSocket.close()
         # Fill in end
 
     serverSocket.close()
